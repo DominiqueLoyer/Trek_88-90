@@ -1,6 +1,6 @@
 # Trek_88-90 
 
-This is a information system I developed in Python using the ** TREK 88-90 ** competition corpus. (243 000 documents) of articles published from 88-90 by the Association Press.
+This is a information system I developed in Python using the ** TREC 88-90 ** competition corpus. (243 000 documents) of articles published from 88-90 by the Association Press.
 
 ## Please use this citation key if you use the code 
 
